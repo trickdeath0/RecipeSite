@@ -2,6 +2,10 @@
 The project simulates a situation where we are full-stack developers who receive a requirements characterization document - PRD and are required to produce a recipe website
 
 
+[[![Video Thumbnail](thumbnail_image_url)]([video_url](https://github.com/trickdeath0/RecipeSite/blob/main/Presentation.mp4))](https://github.com/trickdeath0/RecipeSite/blob/main/Presentation.mp4)
+
+
+
 ## 🚀 About Us
 Name: Shay Giladi
 - [@Shay Giladi](https://github.com/trickdeath0)
