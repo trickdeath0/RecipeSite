@@ -11,11 +11,9 @@ add to .gitignore -> .env, fullchain.pem, privkey.pem
 
 ## 🚀 About Us
 Name: Shay Giladi
-ID: 315572677
 - [@Shay Giladi](https://github.com/trickdeath0)
 
 Name: Oran Becker
-ID: 318872215
 - [@Oran Becker](https://github.com/OranBe)
 
 
