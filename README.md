@@ -2,7 +2,8 @@
 The project simulates a situation where we are full-stack developers who receive a requirements characterization document - PRD and are required to produce a recipe website
 
 
-[[![Video Thumbnail](thumbnail_image_url)]([video_url](https://github.com/trickdeath0/RecipeSite/blob/main/Presentation.mp4))](https://github.com/trickdeath0/RecipeSite/blob/main/Presentation.mp4)
+https://github.com/trickdeath0/RecipeSite/assets/70007454/55934ec1-09f9-4981-9aa1-65992006f156
+
 
 
 
