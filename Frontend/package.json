@@ -7,7 +7,7 @@
     "lint": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "bootstrap": "^4.5.0",
     "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.5",
